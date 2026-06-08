@@ -1,0 +1,4 @@
+.venv/
+bot_data.db
+downloads/
+*.pyc
